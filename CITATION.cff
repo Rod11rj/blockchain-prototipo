@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "Se você utilizar este software, por favor cite-o conforme abaixo."
+type: software
+title: "Comunicação Baseada em Blockchain (C3I)"
+abstract: "Protótipo em Python de comunicação baseada em blockchain, em que cada mensagem é um bloco da cadeia, com autenticação por hash de senha e interfaces em terminal e gráfica (Tkinter), como camada adicional de segurança para sistemas C3I."
+authors:
+  - family-names: "Almeida"
+    given-names: "Rodrigo"
+    affiliation: "Centro de Instrução Almirante Alexandrino (CIAA), Marinha do Brasil"
+version: "1.0.0"
+date-released: "2023-11-01"
+license: MIT
+repository-code: "https://github.com/SEU_USUARIO/comunicacao-baseada-em-blockchain"
+keywords:
+  - "blockchain"
+  - "python"
+  - "C3I"
+  - "comunicação segura"
+  - "tkinter"
+  - "segurança da informação"
+  - "Marinha do Brasil"
+references:
+  - type: thesis
+    title: "Aplicabilidade da Tecnologia do Blockchain na Marinha do Brasil"
+    authors:
+      - family-names: "Almeida"
+        given-names: "Rodrigo"
+    institution:
+      name: "Centro de Instrução Almirante Alexandrino (CIAA), Marinha do Brasil"
+      city: "Rio de Janeiro"
+    year: 2023
+    thesis-type: "Trabalho de Conclusão de Curso (Curso de Aperfeiçoamento Avançado em Segurança da Informação e Comunicações)"
