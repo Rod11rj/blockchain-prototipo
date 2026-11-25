@@ -1,5 +1,7 @@
 # Comunicação Baseada em Blockchain (C3I)
 
+DOI 10.5281/zenodo.24537055
+
 Protótipo de chat em Python no qual cada mensagem trocada é um bloco de uma blockchain, como camada adicional de segurança para sistemas de Comando, Controle, Comunicações e Inteligência (C3I). Inclui versão em terminal e versão com interface gráfica (Tkinter). Código desenvolvido no Trabalho de Conclusão de Curso *"Aplicabilidade da Tecnologia do Blockchain na Marinha do Brasil"* (CIAA, 2023).
 
 ## Conteúdo
